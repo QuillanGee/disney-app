@@ -15,13 +15,4 @@ List of all source files:
 
 
 The Deployed Site:
-
-
-A list of all references used to complete the assignment, including peers (if applicable):
-- 
-
-
-
-Instructions for running the assignment:
-  - gcc vmmgr.c -o ./vmmgr
-  - ./vmmgr addresses.txt
+https://codesandbox.io/p/github/QuillanGee/disney-app/main?file=%2Fcomponents%2FCharacterCard.module.css%3A16%2C2&workspaceId=f1469001-cd51-4a5c-b0fd-5f4548039685
